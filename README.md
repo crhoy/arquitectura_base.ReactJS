@@ -21,4 +21,4 @@ npm run server => comando para conectar BackEnd
 ```
 ## Importante
 
-**1) Debe remover del directorio principal la carpeta llamada _.git_ para poder comenzar un nuevo repositorio basado en esta arquitectura.**
+**Debe remover del directorio principal la carpeta llamada _.git_ para poder comenzar un nuevo repositorio basado en esta arquitectura.**
